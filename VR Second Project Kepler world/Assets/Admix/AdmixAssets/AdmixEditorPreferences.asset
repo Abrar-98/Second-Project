@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1566008119, guid: abf3c058d94959640bec02372a894b38, type: 3}
+  m_Name: AdmixEditorPreferences
+  m_EditorClassIdentifier: 
+  ApplicationsList:
+  - VR Second Project Kepler world
+  _accessToken: ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmZhV1FpT2lJMVpXSTJOamRtWkMwek5tSTJMVFF4TW1FdFlqaGpaUzAxWlRJeVpHTTBOVE01T0RjaUxDSmxlSEFpT2pFMU9UUTFOakF4TmpBc0ltbGhkQ0k2TVRVNU16azJNREUyTUgwLnJlVUdXNFhTblc4QVhoZ2plaFRoZ3F2SDEwbjVwUWtlYU42OXA5cEpnY2M=
+  _userLogin: moon98face@gmail.com
+  _profileStatus: 1000
